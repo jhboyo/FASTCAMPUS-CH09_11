@@ -1,0 +1,11 @@
+json_repair 
+pandas 
+openai 
+dotenv 
+pqdm 
+datasets 
+trl 
+peft 
+wandb 
+bitsandbytes
+google-genai

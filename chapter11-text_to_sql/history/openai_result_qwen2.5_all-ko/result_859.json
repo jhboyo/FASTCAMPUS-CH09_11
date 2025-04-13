@@ -1,5 +1,0 @@
-{
-    "index": 859,
-    "answer": 0,
-    "explanation": "'generated_query'는 'age > 30' 조건을 체크하지만, 'ground_truth_query'는 'age < 30'을 체크하므로 결과가 다릅니다."
-}

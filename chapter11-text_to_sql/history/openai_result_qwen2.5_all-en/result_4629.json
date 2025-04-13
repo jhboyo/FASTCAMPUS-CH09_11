@@ -1,5 +1,0 @@
-{
-    "index": 4629,
-    "answer": 0,
-    "explanation": "두 쿼리에서 WHERE 조건이 다르기 때문에 실제 결과가 다르다."
-}
